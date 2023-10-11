@@ -1,4 +1,4 @@
-# CSV Combinding Script
+# CSV Combining Script
 
 ### Setup
 
